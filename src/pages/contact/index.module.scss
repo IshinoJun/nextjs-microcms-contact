@@ -1,0 +1,17 @@
+.form {
+  width: 50%;
+  text-align: center;
+  margin: 0 auto;
+
+  .error {
+    color: red;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 0.03333em;
+    line-height: 1.66;
+    margin-left: 14px;
+    margin-right: 14px;
+    margin-top: 3px;
+    text-align: left;
+  }
+}
